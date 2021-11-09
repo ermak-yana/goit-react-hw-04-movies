@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/NotFoundView.js"],"names":["NotFoundView"],"mappings":"mMAAe,SAASA,IACtB,OAAO","file":"static/js/not-found-view.b293c812.chunk.js","sourcesContent":["export default function NotFoundView() {\r\n  return <h1>404 - page not found </h1>;\r\n}\r\n"],"sourceRoot":""}
